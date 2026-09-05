@@ -22,3 +22,28 @@
   git restore testing.py
   git status 
   history
+  git status
+
+  git add git_commands.txt
+  git status 
+  git commit -m "added git_commands"
+  git status 
+  clear
+
+  git remote add origin https://github.com/Shrutikolapkar11/github-for-devops.git
+  git remote -v
+  git push origin master
+
+  git remote add origin https://github.com/Shrutikolapkar11/github-for-devops.ibjdkbjv/klJABDv/, jbaL?Sbnct
+  git remote -v
+  git push origin master
+  git push origin master
+  clear
+  cd Documents/Work/github-for-devops
+  mkdir git-demo-new
+  cd git-demo-new/
+  clear
+  git clone https://github.com/Shrutikolapkar11/github-for-devops.git
+  cd github-for-devops
+  ls
+  history
